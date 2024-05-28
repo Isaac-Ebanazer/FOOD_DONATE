@@ -14,7 +14,7 @@ Food Donation is a web application aimed at connecting individuals and organizat
 ## Technologies Used
 
 - Frontend: HTML, CSS, JavaScript, React.js
-- Backend: Node.js, Express.js, MongoDB
+- Backend: Node.js, Express.js, MongoDB,Firebase
 - Authentication: JSON Web Tokens (JWT)
 - Communication: Socket.IO
 - Hosting: Heroku (backend), Netlify (frontend)
