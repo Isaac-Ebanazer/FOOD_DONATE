@@ -21,9 +21,8 @@ Food Donation is a web application aimed at connecting individuals and organizat
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/devprashantt/food-donation.git`
 
-2. Frontend Installation:
+1. Frontend Installation:
 - Navigate to the project frontend directory:
   ```
   cd food-donation/client
@@ -37,7 +36,7 @@ Food Donation is a web application aimed at connecting individuals and organizat
   npm run dev
   ```
 
-3. Backend Installation:
+1. Backend Installation:
 - Navigate to the project backend directory:
   ```
   cd food-donation/server
